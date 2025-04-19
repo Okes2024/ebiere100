@@ -41,6 +41,16 @@ Here are some ideas to get you started:
 
 ---
 
+### 📈 Top 10 Project Performance
+
+Here are some of my standout projects based on performance, innovation, and impact:
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Land Cover (Warri)','Flood Mapping','Oil Spill (GEE)','NDVI Suite','Air Quality','GEE LST Model','Agri Health','Deforestation RS','Urban Trends','Wetlands Dashboard'],datasets:[{label:'Score',data:[95,90,88,85,80,78,75,72,70,68],backgroundColor:'rgba(54, 162, 235, 0.6)'}]},options:{indexAxis:'y',plugins:{legend:{display:false},title:{display:true,text:'Top 10 Project Performance'}},scales:{x:{min:0,max:100}}}}" alt="Top 10 Project Performance Chart" width="700"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -103,4 +113,3 @@ Here are some ideas to get you started:
 - 🤖 Exploring the synergy of AI + Earth  
 
 ---
-
